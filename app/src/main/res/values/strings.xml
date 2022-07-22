@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InfoTechApplication</string>
+    <string name="access_token" translatable="false">sk.eyJ1Ijoia290dHlhcmEiLCJhIjoiY2w1d2JvYXUyMGh4cTNpbnBpeTg1amRpeCJ9.rXoNqlTdmG47NqOZpLTZfg</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="description">description</string>
+    <string name="current_temp">current temp</string>
+    <string name="air_temp">air temp</string>
+    <string name="wetness">wetness</string>
+    <string name="wind_speed">wind speed</string>
+    <string name="zero">0</string>
+</resources>

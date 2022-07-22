@@ -1,0 +1,1072 @@
+[
+    {
+        "id": 833,
+        "name": "Ḩeşār-e Sefīd",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 47.159401,
+            "lat": 34.330502
+        }
+    },
+    {
+        "id": 2960,
+        "name": "‘Ayn Ḩalāqīm",
+        "state": "",
+        "country": "SY",
+        "coord": {
+            "lon": 36.321911,
+            "lat": 34.940079
+        }
+    },
+    {
+        "id": 3245,
+        "name": "Taglag",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 44.98333,
+            "lat": 38.450001
+        }
+    },
+    {
+        "id": 3530,
+        "name": "Qabāghlū",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 46.168499,
+            "lat": 36.173302
+        }
+    },
+    {
+        "id": 5174,
+        "name": "‘Arīqah",
+        "state": "",
+        "country": "SY",
+        "coord": {
+            "lon": 36.48336,
+            "lat": 32.889809
+        }
+    },
+    {
+        "id": 7264,
+        "name": "Kalāteh-ye Dowlat",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 57.616982,
+            "lat": 36.163841
+        }
+    },
+    {
+        "id": 8084,
+        "name": "Behjatābād",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 51.461639,
+            "lat": 36.667431
+        }
+    },
+    {
+        "id": 9874,
+        "name": "Ţālesh Maḩalleh",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 50.679192,
+            "lat": 36.894329
+        }
+    },
+    {
+        "id": 11263,
+        "name": "Shahrīār Kandeh",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 53.19902,
+            "lat": 36.631939
+        }
+    },
+    {
+        "id": 11754,
+        "name": "Bālā Aḩmad Kolā",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 52.667271,
+            "lat": 36.649059
+        }
+    },
+    {
+        "id": 12795,
+        "name": "Aş Şūrah aş Şaghīrah",
+        "state": "",
+        "country": "SY",
+        "coord": {
+            "lon": 36.573872,
+            "lat": 33.032669
+        }
+    },
+    {
+        "id": 14177,
+        "name": "Āqdūz",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 44.26556,
+            "lat": 39.197498
+        }
+    },
+    {
+        "id": 14256,
+        "name": "Āzādshahr",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 48.570728,
+            "lat": 34.790878
+        }
+    },
+    {
+        "id": 18007,
+        "name": "Gollar",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 46.25,
+            "lat": 37.383331
+        }
+    },
+    {
+        "id": 18093,
+        "name": "Dīgāleh",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 45.106998,
+            "lat": 37.552502
+        }
+    },
+    {
+        "id": 18557,
+        "name": "Qarālar-e Mīrzā Ḩoseynqolī",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 45.067501,
+            "lat": 37.674702
+        }
+    },
+    {
+        "id": 18918,
+        "name": "Protaras",
+        "state": "",
+        "country": "CY",
+        "coord": {
+            "lon": 34.058331,
+            "lat": 35.012501
+        }
+    },
+    {
+        "id": 23814,
+        "name": "Kahrīz",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 47.055302,
+            "lat": 34.383801
+        }
+    },
+    {
+        "id": 2950773,
+        "name": "Berg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.93333,
+            "lat": 47.866669
+        }
+    },
+    {
+        "id": 2950775,
+        "name": "Berg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.49814,
+            "lat": 47.82589
+        }
+    },
+    {
+        "id": 2950777,
+        "name": "Berg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.6,
+            "lat": 47.816669
+        }
+    },
+    {
+        "id": 2950781,
+        "name": "Berg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.76667,
+            "lat": 47.76667
+        }
+    },
+    {
+        "id": 2950828,
+        "name": "Berg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.13333,
+            "lat": 47.599998
+        }
+    },
+    {
+        "id": 2950838,
+        "name": "Berentrop",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.78333,
+            "lat": 51.283329
+        }
+    },
+    {
+        "id": 2950849,
+        "name": "Berend",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.56667,
+            "lat": 54.549999
+        }
+    },
+    {
+        "id": 2950858,
+        "name": "Berenbach",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 6.95,
+            "lat": 50.23333
+        }
+    },
+    {
+        "id": 2950861,
+        "name": "Bereborn",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 6.96667,
+            "lat": 50.283329
+        }
+    },
+    {
+        "id": 2950877,
+        "name": "Berchtesgadener Land",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.88361,
+            "lat": 47.73222
+        }
+    },
+    {
+        "id": 2950881,
+        "name": "Berchtesgaden",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 13.0,
+            "lat": 47.633331
+        }
+    },
+    {
+        "id": 2950882,
+        "name": "Berching",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.44222,
+            "lat": 49.104439
+        }
+    },
+    {
+        "id": 2950888,
+        "name": "Berbisdorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.95,
+            "lat": 50.76667
+        }
+    },
+    {
+        "id": 2950898,
+        "name": "Beratzhausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.80833,
+            "lat": 49.096668
+        }
+    },
+    {
+        "id": 2950899,
+        "name": "Beppen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.06667,
+            "lat": 52.933331
+        }
+    },
+    {
+        "id": 2950901,
+        "name": "Benzweiler",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.6,
+            "lat": 50.01667
+        }
+    },
+    {
+        "id": 2950902,
+        "name": "Benzingerode",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.86667,
+            "lat": 51.833328
+        }
+    },
+    {
+        "id": 2950907,
+        "name": "Benzin",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.08273,
+            "lat": 53.440319
+        }
+    },
+    {
+        "id": 2950908,
+        "name": "Benzhausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.81667,
+            "lat": 48.049999
+        }
+    },
+    {
+        "id": 2950930,
+        "name": "Benz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 14.06667,
+            "lat": 53.933331
+        }
+    },
+    {
+        "id": 2950931,
+        "name": "Benz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.58333,
+            "lat": 53.916672
+        }
+    },
+    {
+        "id": 2950933,
+        "name": "Bentzin",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 13.2732,
+            "lat": 53.946079
+        }
+    },
+    {
+        "id": 2950934,
+        "name": "Bentwisch",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.2,
+            "lat": 54.116669
+        }
+    },
+    {
+        "id": 2950940,
+        "name": "Bentrup",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.94184,
+            "lat": 52.01828
+        }
+    },
+    {
+        "id": 2950948,
+        "name": "Bentlage",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.41667,
+            "lat": 52.283329
+        }
+    },
+    {
+        "id": 2950956,
+        "name": "Benthen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.00909,
+            "lat": 53.516529
+        }
+    },
+    {
+        "id": 2950958,
+        "name": "Bentheim",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.16667,
+            "lat": 52.299999
+        }
+    },
+    {
+        "id": 2950963,
+        "name": "Bentfeld",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.63333,
+            "lat": 51.73333
+        }
+    },
+    {
+        "id": 2950967,
+        "name": "Benteler",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.33333,
+            "lat": 51.75
+        }
+    },
+    {
+        "id": 2950978,
+        "name": "Bensheim",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.61611,
+            "lat": 49.680279
+        }
+    },
+    {
+        "id": 2950979,
+        "name": "Benshausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.6,
+            "lat": 50.650002
+        }
+    },
+    {
+        "id": 2950986,
+        "name": "Bensen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.32825,
+            "lat": 52.174461
+        }
+    },
+    {
+        "id": 2950990,
+        "name": "Bensberg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.16334,
+            "lat": 50.964859
+        }
+    },
+    {
+        "id": 2950994,
+        "name": "Benrath",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 6.86667,
+            "lat": 51.166672
+        }
+    },
+    {
+        "id": 2950998,
+        "name": "Bennungen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.11816,
+            "lat": 51.46085
+        }
+    },
+    {
+        "id": 2950999,
+        "name": "Bennstedt",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.83333,
+            "lat": 51.48333
+        }
+    },
+    {
+        "id": 2951013,
+        "name": "Benningen am Neckar",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.24212,
+            "lat": 48.94672
+        }
+    },
+    {
+        "id": 2951014,
+        "name": "Benningen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.21667,
+            "lat": 47.966671
+        }
+    },
+    {
+        "id": 2951019,
+        "name": "Bennigsen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.66667,
+            "lat": 52.23333
+        }
+    },
+    {
+        "id": 2951024,
+        "name": "Bennhausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.98333,
+            "lat": 49.616669
+        }
+    },
+    {
+        "id": 2951026,
+        "name": "Bennewitz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.71376,
+            "lat": 51.360741
+        }
+    },
+    {
+        "id": 2951028,
+        "name": "Bennewitz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.1,
+            "lat": 51.433331
+        }
+    },
+    {
+        "id": 2951030,
+        "name": "Bennewitz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.26667,
+            "lat": 51.116669
+        }
+    },
+    {
+        "id": 2951040,
+        "name": "Benneckenstein",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.71667,
+            "lat": 51.666672
+        }
+    },
+    {
+        "id": 2951046,
+        "name": "Benndorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.48333,
+            "lat": 51.566669
+        }
+    },
+    {
+        "id": 2951050,
+        "name": "Benndorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.63333,
+            "lat": 51.133331
+        }
+    },
+    {
+        "id": 2951066,
+        "name": "Benkendorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.81667,
+            "lat": 51.51667
+        }
+    },
+    {
+        "id": 2951067,
+        "name": "Benkendorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.91667,
+            "lat": 51.433331
+        }
+    },
+    {
+        "id": 2951070,
+        "name": "Benken",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.46667,
+            "lat": 52.166672
+        }
+    },
+    {
+        "id": 2951072,
+        "name": "Benkeloh",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.60823,
+            "lat": 53.172089
+        }
+    },
+    {
+        "id": 2951081,
+        "name": "Benitz",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.1,
+            "lat": 53.98333
+        }
+    },
+    {
+        "id": 2951085,
+        "name": "Beningafehn",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.56667,
+            "lat": 53.333328
+        }
+    },
+    {
+        "id": 2951093,
+        "name": "Bengen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.13333,
+            "lat": 50.566669
+        }
+    },
+    {
+        "id": 2951095,
+        "name": "Bengel",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.06667,
+            "lat": 50.01667
+        }
+    },
+    {
+        "id": 2951104,
+        "name": "Benediktbeuern",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.41522,
+            "lat": 47.706242
+        }
+    },
+    {
+        "id": 2951110,
+        "name": "Bendorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.38333,
+            "lat": 54.083328
+        }
+    },
+    {
+        "id": 2951111,
+        "name": "Bendorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.56667,
+            "lat": 50.433331
+        }
+    },
+    {
+        "id": 2951112,
+        "name": "Bendingbostel",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.41667,
+            "lat": 52.950001
+        }
+    },
+    {
+        "id": 2951114,
+        "name": "Bendfeld",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.41667,
+            "lat": 54.366669
+        }
+    },
+    {
+        "id": 2951115,
+        "name": "Bendestorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.96667,
+            "lat": 53.349998
+        }
+    },
+    {
+        "id": 2951120,
+        "name": "Bendeleben",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.0,
+            "lat": 51.366669
+        }
+    },
+    {
+        "id": 2951124,
+        "name": "Bempflingen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.26834,
+            "lat": 48.571781
+        }
+    },
+    {
+        "id": 2951125,
+        "name": "Bemerode",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.83333,
+            "lat": 52.349998
+        }
+    },
+    {
+        "id": 2951134,
+        "name": "Bad Belzig",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.6,
+            "lat": 52.133331
+        }
+    },
+    {
+        "id": 2951147,
+        "name": "Belum",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.0,
+            "lat": 53.816669
+        }
+    },
+    {
+        "id": 2951151,
+        "name": "Beltheim",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.45,
+            "lat": 50.099998
+        }
+    },
+    {
+        "id": 2951153,
+        "name": "Beltershausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.8,
+            "lat": 50.75
+        }
+    },
+    {
+        "id": 2951161,
+        "name": "Belsdorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.15413,
+            "lat": 52.19614
+        }
+    },
+    {
+        "id": 2951164,
+        "name": "Belsch",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.2,
+            "lat": 53.333328
+        }
+    },
+    {
+        "id": 2951165,
+        "name": "Belrieth",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.5,
+            "lat": 50.533329
+        }
+    },
+    {
+        "id": 2951169,
+        "name": "Below",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 12.46382,
+            "lat": 53.25946
+        }
+    },
+    {
+        "id": 2951174,
+        "name": "Belmbrach",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.10014,
+            "lat": 49.228748
+        }
+    },
+    {
+        "id": 2951175,
+        "name": "Belm",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.13333,
+            "lat": 52.299999
+        }
+    },
+    {
+        "id": 2951177,
+        "name": "Bellstedt",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.78333,
+            "lat": 51.26667
+        }
+    },
+    {
+        "id": 2951181,
+        "name": "Bellnhausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.71667,
+            "lat": 50.700001
+        }
+    },
+    {
+        "id": 2951198,
+        "name": "Bellingen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.9,
+            "lat": 50.599998
+        }
+    },
+    {
+        "id": 2951200,
+        "name": "Belling",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 13.96667,
+            "lat": 53.549999
+        }
+    },
+    {
+        "id": 2951206,
+        "name": "Bellheim",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.27944,
+            "lat": 49.19833
+        }
+    },
+    {
+        "id": 2951209,
+        "name": "Bellevue",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.18333,
+            "lat": 53.466671
+        }
+    },
+    {
+        "id": 2951216,
+        "name": "Bellersheim",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.83799,
+            "lat": 50.453018
+        }
+    },
+    {
+        "id": 2951217,
+        "name": "Bellershausen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.21667,
+            "lat": 49.299999
+        }
+    },
+    {
+        "id": 2951219,
+        "name": "Bellersdorf",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 8.41667,
+            "lat": 50.666672
+        }
+    },
+    {
+        "id": 2951229,
+        "name": "Beller",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 9.23333,
+            "lat": 51.700001
+        }
+    },
+    {
+        "id": 2951230,
+        "name": "Beller",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.1,
+            "lat": 50.566669
+        }
+    },
+    {
+        "id": 2951232,
+        "name": "Bellenberg",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.09094,
+            "lat": 48.257259
+        }
+    },
+    {
+        "id": 2951235,
+        "name": "Bellen",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.26667,
+            "lat": 47.583328
+        }
+    },
+    {
+        "id": 2951236,
+        "name": "Belleben",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 11.63333,
+            "lat": 51.666672
+        }
+    },
+    {
+        "id": 2951239,
+        "name": "Bell",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.23333,
+            "lat": 50.383331
+        }
+    },
+    {
+        "id": 2951240,
+        "name": "Bell",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 7.41667,
+            "lat": 50.066669
+        }
+    }
+]

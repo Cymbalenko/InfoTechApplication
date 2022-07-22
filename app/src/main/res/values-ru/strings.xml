@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инфотех</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="description">Описание</string>
+    <string name="current_temp">Текущая температура воздуха</string>
+    <string name="air_temp">Мин., макс. температура воздуха</string>
+    <string name="wetness">Влажность воздуха</string>
+    <string name="wind_speed">Скорость ветра</string>
+</resources>
